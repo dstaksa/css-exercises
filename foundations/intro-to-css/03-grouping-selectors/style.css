@@ -1,0 +1,32 @@
+/* first solution */
+
+/* button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+} 
+    */
+
+
+/* second solution */
+
+.first,
+.second {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
