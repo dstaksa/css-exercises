@@ -1,0 +1,23 @@
+p {
+    font-family: Verdana, "DejaVu Sans" sans-serif;
+    background-color: pink;
+}
+
+.font-large {
+    font-size: 24px;
+}
+
+/* .font-extraL {
+    font-size: 36px;
+} */
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#subtitle {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
